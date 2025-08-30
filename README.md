@@ -1,6 +1,6 @@
-# XlsxToMarkdown
+# XLSX to Markdown
 
-XlsxToMarkdown is een C#-tool waarmee je eenvoudig tabellen uit Excel-bestanden (.xlsx) kunt converteren naar Markdown-formaat. Dit is handig om snel en efficiënt gegevens uit Excel te delen in bijvoorbeeld documentatie, GitHub README's, of Wiki-pagina's.
+XlsxToMarkdown is een C#-tool waarmee je eenvoudig tabellen uit Excel-bestanden (.xlsx) kunt converteren naar Markdown-formaat. Dit is handig om snel en efficiënt gegevens uit Excel te delen in bijvoorbeeld documentatie, GitHub README's, of Wiki-pagina's. Het is gebouwd met .NET 10.0.
 
 ## Features
 
